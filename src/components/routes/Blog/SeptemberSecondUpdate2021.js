@@ -42,7 +42,7 @@ function SeptemberSecondUpdate2021() {
       <Container>
         <BodyInner>
           <Date>
-            08 September 2021
+            14 September 2021
           </Date>
           <Heading>
             September Patch amidst our Busy Schedule
@@ -50,9 +50,9 @@ function SeptemberSecondUpdate2021() {
           <Description>
             Now, the Lead Dev is busy, so I am writing the blog posts, at least for now. Anyways, Ashwin here.
             Android 12 is right around the corner, we thought this would be the last Android 11 update, but it
-            seems it would take a month more for the sources release, so there might be an Android 11 October
-            Update. Shen recently got his new Poco X3 Pro, so this would be the final update for his previous
-            device X00TD (Sad to see that go). About this update, we have merged upstream from Lineage OS and
+            seems it would take a month more for the sources to release, so there might aswell be an Android 11 October
+            update. Shen recently got his new Poco X3 Pro, so this would be the final update for his previous
+            device X00TD (sad to see that go). About this update, we have merged upstream from Lineage OS and
             because Shen is busy with his work, this update will be short and sweet.
             <br />
             <br />
